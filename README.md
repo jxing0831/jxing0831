@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @jxing0831
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @jxing0831 | a student from SHU majoring in Information and Computing Sciences(ICS).
+- 👀 I’m interested in Data Science|Robot|Art...
+- 🌱 I’m currently learning DS and Probability & Statistics
+- 💞️ I’m looking to collaborate on R.M. and Mathematical Modeling
 - 📫 1906736267@qq.com
 
-<!---
-jxing0831/jxing0831 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
