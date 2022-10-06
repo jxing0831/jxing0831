@@ -18,7 +18,7 @@ Feel free to contact me :D
 -->
 
 
-<p> 
+<p align="center">
   <a href="https://github.com/jxing0831?tab=followers"> <img src="https://img.shields.io/github/followers/jxing0831?label=Followers&style=plastic"  alt="github follow" /> </a>
   <a href="mailto:jxing0831@qq.com"> <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white"  alt="Email">
   <a href="https://www.linkedin.com/in/jxing0831/"><img src="https://img.shields.io/badge/linkedin-006CAC.svg?&style=plastic&logo=linkedin&logoColor=white"  alt="LinkedIn"> </a>
@@ -28,3 +28,4 @@ Feel free to contact me :D
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jxing0831&theme=gitdimmed)](https://github.com/ryo-ma/github-profile-trophy)
 
+</p>
