@@ -8,13 +8,15 @@ Feel free to contact me :D
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jxing0831.jxing0831&format=true)
 
+<!-- 
 </p> 
 <div align="center">
   <a href="https://github.com/jxing0831">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jxing0831&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<!--  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxing0831&layout=compact&langs_count=7&theme=dark"/> 
--->
+ <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxing0831&layout=compact&langs_count=7&theme=dark"/> 
 </div>
+-->
+
 
 <p> 
   <a href="https://github.com/jxing0831?tab=followers"> <img src="https://img.shields.io/github/followers/jxing0831?label=Followers&style=plastic"  alt="github follow" /> </a>
