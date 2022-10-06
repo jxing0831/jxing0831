@@ -6,8 +6,8 @@
 
 Feel free to contact me :D
 
-<p align="center">!
-[visitors](https://visitor-badge.laobi.icu/badge?page_id=jxing0831.jxing0831&format=true)
+<p align="center">
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=jxing0831.jxing0831&format=true)
 </p>
 
 <!-- 
