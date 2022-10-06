@@ -4,11 +4,11 @@
 - 💞️ I’m looking to collaborate on [SHU_Fly](https://github.com/shuosc/fly) and SRT
 - 📫 jxing0831@qq.com
 
-Feel free to contact me :D
+**_Feel free to contact me :D_**
 
-<div align="center">
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jxing0831.jxing0831&format=true)
-</div>
+
 
 <!-- 
 </p> 
