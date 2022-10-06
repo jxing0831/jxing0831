@@ -23,6 +23,7 @@ Feel free to contact me :D
   <a href="mailto:jxing0831@qq.com"> <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white"  alt="Email">
   <a href="https://www.linkedin.com/in/jxing0831/"><img src="https://img.shields.io/badge/linkedin-006CAC.svg?&style=plastic&logo=linkedin&logoColor=white"  alt="LinkedIn"> </a>
   <a href="https://twitter.com/jxing0831"> <img src="https://img.shields.io/twitter/follow/jxing0831?color=%23f&logo=twitter&style=plastic"   alt="Jie Xing's Twitter">
+    <a href="https://jxing0831.github.io/"> <img src="https://img.shields.io/badge/&#8459-HomePage-3875B7.svg?labelColor=21438A&style=plastic"  alt="Jie Xing">
   <a href="https://www.zhihu.com/people/jxing0831"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=plastic&logo=zhihu&logoColor=white" alt="知乎"></a>
   <a href="https://jxing0831.github.io/files/jiexing0928.pdf"> <img src="https://img.shields.io/badge/-CV-blue?style=plastic" > </a> 
 
