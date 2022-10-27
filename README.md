@@ -1,7 +1,7 @@
 - 👋 Hi, I’m [@jxing0831](https://github.com/jxing0831) | a junior student from SHU majoring in Information and Computing Sciences(ICS)
 - 👀 I’m interested in RL | MIA | Robot...
 - 🌱 I’m currently learning Operation Research and Numerical Calculation
-- 💞️ I’m looking to collaborate on [SHUFly](https://github.com/shuosc/fly) and SRT
+- 💞️ I’m looking to collaborate on [SHUFly](https://github.com/shuosc/fly) and SRT for Bio_X
 - 📫 jxing0831@qq.com
 
 **_Feel free to contact me :D_**
