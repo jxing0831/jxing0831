@@ -6,8 +6,12 @@
 
 **_Feel free to contact me :D_**
 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jxing0831.jxing0831&format=true" alt="vistors" />
+</a>
+</p>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=jxing0831.jxing0831&format=true)
+[//]:(![visitors](https://visitor-badge.laobi.icu/badge?page_id=jxing0831.jxing0831&format=true))
 
 
 <!-- 
