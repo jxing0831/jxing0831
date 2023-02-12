@@ -39,8 +39,9 @@ I'm now leading the [SHUGUG](https://github.com/SHUGUG), which is a open source 
 </p>
 -->     
 
-<img width="100%" alt="game gif" src="./github-contribution-grid-snake.svg"/>      
+<img width="100%" alt="game gif" src="https://github.com/jxing0831/jxing0831/blob/output/github-contribution-grid-snake.svg"/>      
       
+
       
       
       
